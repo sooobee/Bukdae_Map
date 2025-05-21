@@ -1,0 +1,60 @@
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.csprojAssemblyReference.cache
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\MainWindow.g.cs
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\App.g.cs
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi_MarkupCompile.cache
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi_MarkupCompile.lref
+C:\Users\82106\source\repos\mapApi\mapApi\bin\Debug\mapApi.exe.config
+C:\Users\82106\source\repos\mapApi\mapApi\bin\Debug\mapApi.exe
+C:\Users\82106\source\repos\mapApi\mapApi\bin\Debug\mapApi.pdb
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\MainWindow.baml
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.g.resources
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.Properties.Resources.resources
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.csproj.GenerateResource.cache
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.exe
+C:\Users\82106\source\repos\mapApi\mapApi\obj\Debug\mapApi.pdb
+C:\Users\user\Desktop\윈프 완썽\mapApi\bin\Debug\mapApi.exe.config
+C:\Users\user\Desktop\윈프 완썽\mapApi\bin\Debug\mapApi.exe
+C:\Users\user\Desktop\윈프 완썽\mapApi\bin\Debug\mapApi.pdb
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\App.g.cs
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi_MarkupCompile.cache
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi_MarkupCompile.lref
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.g.resources
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.Properties.Resources.resources
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.exe
+C:\Users\user\Desktop\윈프 완썽\mapApi\obj\Debug\mapApi.pdb
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\bin\Debug\mapApi.exe.config
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\bin\Debug\mapApi.exe
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\bin\Debug\mapApi.pdb
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\App.g.cs
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi_MarkupCompile.cache
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi_MarkupCompile.lref
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.g.resources
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.Properties.Resources.resources
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.exe
+C:\Users\user\Desktop\윈프\윈프 팀플\mapApi\obj\Debug\mapApi.pdb
+C:\Users\user\Desktop\윈프 팀플\mapApi\bin\Debug\mapApi.exe.config
+C:\Users\user\Desktop\윈프 팀플\mapApi\bin\Debug\mapApi.exe
+C:\Users\user\Desktop\윈프 팀플\mapApi\bin\Debug\mapApi.pdb
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\App.g.cs
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi_MarkupCompile.cache
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi_MarkupCompile.lref
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.g.resources
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.Properties.Resources.resources
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.exe
+C:\Users\user\Desktop\윈프 팀플\mapApi\obj\Debug\mapApi.pdb
